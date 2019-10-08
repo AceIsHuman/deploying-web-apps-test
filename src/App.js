@@ -30,6 +30,9 @@ function App() {
         Hi, its Seong
       </p>
       <p>
+        Hi, its Seong again
+      </p>
+      <p>
         <a
           href="https://github.com/zeit/now-examples/tree/master/create-react-app-functions"
           target="_blank"
