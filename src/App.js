@@ -26,7 +26,9 @@ function App() {
         </a>
         !
       </h2>
-      <button>Click Here</button>
+      <button onClick={() => {
+        alert("DON'T CLICK THAT!")
+      }}>Click Here</button>
       <br />
       <h2>The date according to Go is:</h2>
       <p>{date ? date : 'Loading date...'}</p>
