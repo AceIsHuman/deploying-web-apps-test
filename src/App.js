@@ -26,7 +26,6 @@ function App() {
         </a>
         !
       </h2>
-      <p>
       <button>Click Here</button>
       <br />
       <h2>The date according to Go is:</h2>
